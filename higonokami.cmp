@@ -1,0 +1,150 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 17 Mar 2015 13:11:59 GMT
+
+BeginCmp
+TimeStamp = /54EF7314;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF7321;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF7327;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF7381;
+Reference = C5;
+ValeurCmp = 10nF;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF7637;
+Reference = C6;
+ValeurCmp = CSMALL;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF7646;
+Reference = C7;
+ValeurCmp = CSMALL;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF8B06;
+Reference = C8;
+ValeurCmp = 4.7uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF8B15;
+Reference = C9;
+ValeurCmp = 4.7uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF9B18;
+Reference = C10;
+ValeurCmp = 10nF;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55082803;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF78A4;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = USB-A-SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF7751;
+Reference = P1;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF969D;
+Reference = Q1;
+ValeurCmp = BC857;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF8055;
+Reference = R1;
+ValeurCmp = 22R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF8048;
+Reference = R2;
+ValeurCmp = 22R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF913B;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EFA18E;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /550827AD;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF6F12;
+Reference = U1;
+ValeurCmp = STM32F103CB;
+IdModule  = LQFP48;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF99F4;
+Reference = U2;
+ValeurCmp = LD3985G33R;
+IdModule  = SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54EF754B;
+Reference = X1;
+ValeurCmp = 12MHz;
+IdModule  = crystal_FA238-TSX3225;
+EndCmp
+
+EndListe
